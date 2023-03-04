@@ -2,13 +2,14 @@
 //ADD YOUR FIREBASE LINKS HERE
 // Your web app's Firebase configuration
 var firebaseConfig = {
-  apiKey: "AIzaSyCnpiFpQKuQc1ce9YOrJCeERMprP9E3pA0",
-  authDomain: "kwitter-49455.firebaseapp.com",
-  databaseURL: "https://kwitter-49455-default-rtdb.firebaseio.com",
-  projectId: "kwitter-49455",
-  storageBucket: "kwitter-49455.appspot.com",
-  messagingSenderId: "729869635327",
-  appId: "1:729869635327:web:5ffc4b7a7d63222e8f86ca"
+  apiKey: "AIzaSyBpE4s83vdAInbYON5XVETn5mMUVfz3cXo",
+  authDomain: "letschat-61543.firebaseapp.com",
+  databaseURL: "https://letschat-61543-default-rtdb.firebaseio.com",
+  projectId: "letschat-61543",
+  storageBucket: "letschat-61543.appspot.com",
+  messagingSenderId: "282278539513",
+  appId: "1:282278539513:web:7927496c2c54a0f2987228",
+  measurementId: "G-JLF521D6BB"
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
