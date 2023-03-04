@@ -1,12 +1,13 @@
 // Your web app's Firebase configuration
 var firebaseConfig = {
-      apiKey: "AIzaSyA8EepdGd8on_DGn09k_OIYn6jfNPpY74c",
-      authDomain: "let-s-chat-web-app-85e53.firebaseapp.com",
-      databaseURL: "https://let-s-chat-web-app-85e53-default-rtdb.firebaseio.com",
-      projectId: "let-s-chat-web-app-85e53",
-      storageBucket: "let-s-chat-web-app-85e53.appspot.com",
-      messagingSenderId: "616707750010",
-      appId: "1:616707750010:web:bdcac789be554b4a06a3c3"
+      apiKey: "AIzaSyBpE4s83vdAInbYON5XVETn5mMUVfz3cXo",
+  authDomain: "letschat-61543.firebaseapp.com",
+  databaseURL: "https://letschat-61543-default-rtdb.firebaseio.com",
+  projectId: "letschat-61543",
+  storageBucket: "letschat-61543.appspot.com",
+  messagingSenderId: "282278539513",
+  appId: "1:282278539513:web:7927496c2c54a0f2987228",
+  measurementId: "G-JLF521D6BB"
     };
     // Initialize Firebase
     firebase.initializeApp(firebaseConfig);
